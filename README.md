@@ -1,6 +1,8 @@
 # Nginx_Proxy_Nodejs
 Configuracion basica proxy aplicación Nodejs en Nginx
 
+# /etc/nginx/sites-available 'default'
+
 Puerto de Nginx -> 80
 
 Puerto de app Nodejs -> 3000
